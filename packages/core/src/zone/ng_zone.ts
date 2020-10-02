@@ -6,6 +6,7 @@
  * found in the LICENSE file at https://angular.io/license
  */
 
+
 import {EventEmitter} from '../event_emitter';
 import {global} from '../util/global';
 import {getNativeRequestAnimationFrame} from '../util/raf';
